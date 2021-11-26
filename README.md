@@ -1,2 +1,3 @@
 # ShareCode
-Service is unavailable.
+
+<b>Service is unavailable.</b>
